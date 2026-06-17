@@ -1,4 +1,4 @@
-! Title: MiKing233's Custom Ads Blocklist
+! Title: MiKing233's Ads Blocklist
 ! Last modified: 2026-06-17 11:13:00 UTC+8
 ! Homepage: https://github.com/MiKing233/net-rules
 
@@ -23,5 +23,71 @@
 ! 用途: 网页直播P2P信令服务器
 ! 原因: 阻止WebRTC / P2P Upload 避免上行带宽被消耗
 ||chat.bilibili.com^
+
+! ========================================
+
+
+
+! ========================================
+! Google
+! ========================================
+
+! 域名: googleadservices.com
+! 用途: Google Ads 广告点击跳转与转化跟踪平台
+! 原因: 阻止 Google 广告点击追踪及广告重定向
+||googleadservices.com^
+||googleadservices-cn.com^
+
+! 域名: googleads.g.doubleclick.net
+! 用途: Google Ads 广告投放与统计服务
+! 原因: 阻止 Google 广告请求及行为跟踪
+||googleads.g.doubleclick.net^
+||googleads.g.doubleclick-cn.net^
+
+! 域名: ad.doubleclick.net
+! 用途: Google DoubleClick 广告投放服务器
+! 原因: 阻止广告展示请求
+||ad.doubleclick.net^
+
+! 域名: adclick.g.doubleclick.net
+! 用途: Google 广告点击统计服务器
+! 原因: 阻止广告点击跟踪
+||adclick.g.doubleclick.net^
+
+! 域名: securepubads.g.doubleclick.net
+! 用途: Google Publisher Ads 广告分发服务
+! 原因: 阻止网页广告加载
+||securepubads.g.doubleclick.net^
+
+! 域名: doubleclick-cn.net
+! 用途: Google DoubleClick 中国大陆地区广告平台
+! 原因: 阻止广告投放及广告跟踪
+||doubleclick-cn.net^
+
+! 域名: tpc.googlesyndication.com
+! 用途: Google AdSense 广告素材分发服务器
+! 原因: 阻止广告图片、视频等素材加载
+||tpc.googlesyndication.com^
+||tpc.googlesyndication-cn.com^
+
+! 域名: pagead2.googleadservices.com
+! 用途: Google Ads 广告投放与点击跟踪服务
+! 原因: 阻止广告请求及广告统计
+||pagead2.googleadservices.com^
+
+! 域名: pagead2.googlesyndication.com
+! 用途: Google AdSense 广告内容分发平台
+! 原因: 阻止网页广告加载
+||pagead2.googlesyndication.com^
+
+! 域名: google-analytics.com
+! 用途: Google Analytics 网站访问统计与行为分析平台
+! 原因: 阻止用户行为追踪和访问数据收集
+||google-analytics.com^
+
+! 域名: googletagservices-cn.com
+! 用途: Google 中国大陆地区广告标签与跟踪脚本分发服务
+! 原因: 阻止广告系统初始化及相关追踪脚本加载
+||googletagservices-cn.com^
 
 ! ========================================
