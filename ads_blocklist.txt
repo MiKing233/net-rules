@@ -1,4 +1,4 @@
 ! Title: MiKing233's Custom Ads Blocklist
 ! Last modified: 2026-06-17 11:13:00 UTC+8
 
-||chat.bilibili.com^# 阻止BiliBili网页直播P2P上传
+||chat.bilibili.com^
