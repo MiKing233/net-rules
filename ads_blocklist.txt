@@ -518,59 +518,48 @@
 
 ! ========================================
 
-! 域名: go.godkc.com
-! 用途: 成人內容網站圖片及影片預覽縮圖
-! 原因: 阻止第三方色情廣告素材載入減少侵入式廣告干擾
-
-||go.godkc.com^
-
-! ========================================
-
-! 域名: go.gasipedibexide.com
-! 用途: 成人內容網站圖片及影片預覽縮圖
-! 原因: 阻止第三方色情廣告素材載入減少侵入式廣告干擾
-
-||go.gasipedibexide.com^
-
-! ========================================
-
-! 域名: go.greentrafsa.com
-! 用途: 成人內容網站圖片及影片預覽縮圖
-! 原因: 阻止第三方色情廣告素材載入減少侵入式廣告干擾
-
-||go.greentrafsa.com^
-
-! ========================================
-
-! 域名: go.mavrtracktor.com
-! 用途: 成人內容網站圖片及影片預覽縮圖
-! 原因: 阻止第三方色情廣告素材載入減少侵入式廣告干擾
-
-||go.mavrtracktor.com^
-
-! ========================================
-
 ! 域名: creative.myavlive.com
 ! 用途: 成人內容網站圖片及影片預覽縮圖
 ! 原因: 阻止第三方色情廣告素材載入減少侵入式廣告干擾
 
+||go.myavlive.com^
 ||creative.myavlive.com^
 
 ! ========================================
 
-! 域名: creative.greentrafsa.com
+! 域名: godkc.com
 ! 用途: 成人內容網站圖片及影片預覽縮圖
 ! 原因: 阻止第三方色情廣告素材載入減少侵入式廣告干擾
 
+||go.godkc.com^
+||creative.godkc.com^
+
+! ========================================
+
+! 域名: gasipedibexide.com
+! 用途: 成人內容網站圖片及影片預覽縮圖
+! 原因: 阻止第三方色情廣告素材載入減少侵入式廣告干擾
+
+||go.gasipedibexide.com^
+||creative.gasipedibexide.com^
+
+! ========================================
+
+! 域名: greentrafsa.com
+! 用途: 成人內容網站圖片及影片預覽縮圖
+! 原因: 阻止第三方色情廣告素材載入減少侵入式廣告干擾
+
+||go.greentrafsa.com^
 ||creative.greentrafsa.com^
 
 ! ========================================
 
-! 域名: creative.gasipedibexide.com
+! 域名: mavrtracktor.com
 ! 用途: 成人內容網站圖片及影片預覽縮圖
 ! 原因: 阻止第三方色情廣告素材載入減少侵入式廣告干擾
 
-||creative.gasipedibexide.com^
+||go.mavrtracktor.com^
+||creative.mavrtracktor.com^
 
 ! ========================================
 
