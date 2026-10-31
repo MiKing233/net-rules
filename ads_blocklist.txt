@@ -1,5 +1,5 @@
 ! Title: MiKing233's Ads Blocklist
-! Last modified: 2026-10-25 21:45:00 UTC+8
+! Last modified: 2026-11-01 03:35:00 UTC+8
 ! Homepage: https://github.com/MiKing233/net-rules
 
 ! ========================================
@@ -201,6 +201,14 @@
 
 ! ========================================
 # BiliBili
+! ========================================
+
+! 域名: cm.bilibili.com
+! 用途: Bilibili 廣告投放、點擊跳轉及廣告效果追蹤服務
+! 原因: 阻止商業廣告相關請求、廣告跳轉及用戶行為追蹤
+
+||cm.bilibili.com^
+
 ! ========================================
 
 ! 域名: chat.bilibili.com
